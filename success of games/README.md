@@ -14,6 +14,7 @@
 - **pandas**
 - **numpy**
 - **matplotlib**
+- **seaborn**
 
 ## 
 
