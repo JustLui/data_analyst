@@ -1,6 +1,6 @@
 # Анализ пользовательского поведения в мобильном приложении
 
-[ipynb](https://github.com/JustLui/data_analyst/blob/main/loss%20analysis/application%20loss%20analysis.ipynb)
+[ipynb](https://github.com/JustLui/data_analyst/blob/main/A_B%20test/a_b_test.ipynb)
 
 ## Описание проекта
 
