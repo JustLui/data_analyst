@@ -1,6 +1,6 @@
 # Анализ убытков приложения ProcrastinatePRO+
 
-[ipynb](https://github.com/JustLui/data_analyst/blob/4f476b2ad5df473d4c78bd6f67a750fdceab49a8/success%20of%20games/success%20of%20games.ipynb)
+[ipynb](https://github.com/JustLui/data_analyst/blob/main/loss%20analysis/application%20loss%20analysis.ipynb)
 
 ## Описание проекта
 
